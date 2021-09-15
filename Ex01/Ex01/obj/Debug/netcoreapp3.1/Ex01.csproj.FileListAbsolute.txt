@@ -1,0 +1,14 @@
+C:\temp\ws-vs19\Ex01\Ex01\bin\Debug\netcoreapp3.1\Ex01.exe
+C:\temp\ws-vs19\Ex01\Ex01\bin\Debug\netcoreapp3.1\Ex01.deps.json
+C:\temp\ws-vs19\Ex01\Ex01\bin\Debug\netcoreapp3.1\Ex01.runtimeconfig.json
+C:\temp\ws-vs19\Ex01\Ex01\bin\Debug\netcoreapp3.1\Ex01.runtimeconfig.dev.json
+C:\temp\ws-vs19\Ex01\Ex01\bin\Debug\netcoreapp3.1\Ex01.dll
+C:\temp\ws-vs19\Ex01\Ex01\bin\Debug\netcoreapp3.1\Ex01.pdb
+C:\temp\ws-vs19\Ex01\Ex01\obj\Debug\netcoreapp3.1\Ex01.csproj.AssemblyReference.cache
+C:\temp\ws-vs19\Ex01\Ex01\obj\Debug\netcoreapp3.1\Ex01.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws-vs19\Ex01\Ex01\obj\Debug\netcoreapp3.1\Ex01.AssemblyInfoInputs.cache
+C:\temp\ws-vs19\Ex01\Ex01\obj\Debug\netcoreapp3.1\Ex01.AssemblyInfo.cs
+C:\temp\ws-vs19\Ex01\Ex01\obj\Debug\netcoreapp3.1\Ex01.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs19\Ex01\Ex01\obj\Debug\netcoreapp3.1\Ex01.dll
+C:\temp\ws-vs19\Ex01\Ex01\obj\Debug\netcoreapp3.1\Ex01.pdb
+C:\temp\ws-vs19\Ex01\Ex01\obj\Debug\netcoreapp3.1\Ex01.genruntimeconfig.cache
