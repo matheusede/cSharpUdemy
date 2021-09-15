@@ -1,0 +1,14 @@
+C:\temp\ws-vs19\ExProposto04\ExProposto04\bin\Debug\netcoreapp3.1\ExProposto04.exe
+C:\temp\ws-vs19\ExProposto04\ExProposto04\bin\Debug\netcoreapp3.1\ExProposto04.deps.json
+C:\temp\ws-vs19\ExProposto04\ExProposto04\bin\Debug\netcoreapp3.1\ExProposto04.runtimeconfig.json
+C:\temp\ws-vs19\ExProposto04\ExProposto04\bin\Debug\netcoreapp3.1\ExProposto04.runtimeconfig.dev.json
+C:\temp\ws-vs19\ExProposto04\ExProposto04\bin\Debug\netcoreapp3.1\ExProposto04.dll
+C:\temp\ws-vs19\ExProposto04\ExProposto04\bin\Debug\netcoreapp3.1\ExProposto04.pdb
+C:\temp\ws-vs19\ExProposto04\ExProposto04\obj\Debug\netcoreapp3.1\ExProposto04.csproj.AssemblyReference.cache
+C:\temp\ws-vs19\ExProposto04\ExProposto04\obj\Debug\netcoreapp3.1\ExProposto04.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws-vs19\ExProposto04\ExProposto04\obj\Debug\netcoreapp3.1\ExProposto04.AssemblyInfoInputs.cache
+C:\temp\ws-vs19\ExProposto04\ExProposto04\obj\Debug\netcoreapp3.1\ExProposto04.AssemblyInfo.cs
+C:\temp\ws-vs19\ExProposto04\ExProposto04\obj\Debug\netcoreapp3.1\ExProposto04.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs19\ExProposto04\ExProposto04\obj\Debug\netcoreapp3.1\ExProposto04.dll
+C:\temp\ws-vs19\ExProposto04\ExProposto04\obj\Debug\netcoreapp3.1\ExProposto04.pdb
+C:\temp\ws-vs19\ExProposto04\ExProposto04\obj\Debug\netcoreapp3.1\ExProposto04.genruntimeconfig.cache
