@@ -1,0 +1,14 @@
+C:\Users\mathe\OneDrive\Documentos\GitHub\cSharpUdemy\Unidade 05\ExercicioDeFixacao_Unidade05\ExercicioDeFixacao_Unidade05\bin\Debug\netcoreapp3.1\ExercicioDeFixacao_Unidade05.exe
+C:\Users\mathe\OneDrive\Documentos\GitHub\cSharpUdemy\Unidade 05\ExercicioDeFixacao_Unidade05\ExercicioDeFixacao_Unidade05\bin\Debug\netcoreapp3.1\ExercicioDeFixacao_Unidade05.deps.json
+C:\Users\mathe\OneDrive\Documentos\GitHub\cSharpUdemy\Unidade 05\ExercicioDeFixacao_Unidade05\ExercicioDeFixacao_Unidade05\bin\Debug\netcoreapp3.1\ExercicioDeFixacao_Unidade05.runtimeconfig.json
+C:\Users\mathe\OneDrive\Documentos\GitHub\cSharpUdemy\Unidade 05\ExercicioDeFixacao_Unidade05\ExercicioDeFixacao_Unidade05\bin\Debug\netcoreapp3.1\ExercicioDeFixacao_Unidade05.runtimeconfig.dev.json
+C:\Users\mathe\OneDrive\Documentos\GitHub\cSharpUdemy\Unidade 05\ExercicioDeFixacao_Unidade05\ExercicioDeFixacao_Unidade05\bin\Debug\netcoreapp3.1\ExercicioDeFixacao_Unidade05.dll
+C:\Users\mathe\OneDrive\Documentos\GitHub\cSharpUdemy\Unidade 05\ExercicioDeFixacao_Unidade05\ExercicioDeFixacao_Unidade05\bin\Debug\netcoreapp3.1\ExercicioDeFixacao_Unidade05.pdb
+C:\Users\mathe\OneDrive\Documentos\GitHub\cSharpUdemy\Unidade 05\ExercicioDeFixacao_Unidade05\ExercicioDeFixacao_Unidade05\obj\Debug\netcoreapp3.1\ExercicioDeFixacao_Unidade05.csproj.AssemblyReference.cache
+C:\Users\mathe\OneDrive\Documentos\GitHub\cSharpUdemy\Unidade 05\ExercicioDeFixacao_Unidade05\ExercicioDeFixacao_Unidade05\obj\Debug\netcoreapp3.1\ExercicioDeFixacao_Unidade05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\OneDrive\Documentos\GitHub\cSharpUdemy\Unidade 05\ExercicioDeFixacao_Unidade05\ExercicioDeFixacao_Unidade05\obj\Debug\netcoreapp3.1\ExercicioDeFixacao_Unidade05.AssemblyInfoInputs.cache
+C:\Users\mathe\OneDrive\Documentos\GitHub\cSharpUdemy\Unidade 05\ExercicioDeFixacao_Unidade05\ExercicioDeFixacao_Unidade05\obj\Debug\netcoreapp3.1\ExercicioDeFixacao_Unidade05.AssemblyInfo.cs
+C:\Users\mathe\OneDrive\Documentos\GitHub\cSharpUdemy\Unidade 05\ExercicioDeFixacao_Unidade05\ExercicioDeFixacao_Unidade05\obj\Debug\netcoreapp3.1\ExercicioDeFixacao_Unidade05.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Documentos\GitHub\cSharpUdemy\Unidade 05\ExercicioDeFixacao_Unidade05\ExercicioDeFixacao_Unidade05\obj\Debug\netcoreapp3.1\ExercicioDeFixacao_Unidade05.dll
+C:\Users\mathe\OneDrive\Documentos\GitHub\cSharpUdemy\Unidade 05\ExercicioDeFixacao_Unidade05\ExercicioDeFixacao_Unidade05\obj\Debug\netcoreapp3.1\ExercicioDeFixacao_Unidade05.pdb
+C:\Users\mathe\OneDrive\Documentos\GitHub\cSharpUdemy\Unidade 05\ExercicioDeFixacao_Unidade05\ExercicioDeFixacao_Unidade05\obj\Debug\netcoreapp3.1\ExercicioDeFixacao_Unidade05.genruntimeconfig.cache
